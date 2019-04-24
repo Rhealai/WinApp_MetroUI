@@ -1,0 +1,12 @@
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WinApp_MetroUI\WinApp_MetroUI\bin\Debug\WinApp_MetroUI.exe
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WinApp_MetroUI\WinApp_MetroUI\bin\Debug\WinApp_MetroUI.pdb
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WinApp_MetroUI\WinApp_MetroUI\bin\Debug\WinApp_MetroUI.xml
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WinApp_MetroUI\WinApp_MetroUI\bin\Debug\MetroFramework.dll
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WinApp_MetroUI\WinApp_MetroUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WinApp_MetroUI\WinApp_MetroUI\obj\x86\Debug\WinApp_MetroUI.Form1.resources
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WinApp_MetroUI\WinApp_MetroUI\obj\x86\Debug\WinApp_MetroUI.Resources.resources
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WinApp_MetroUI\WinApp_MetroUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WinApp_MetroUI\WinApp_MetroUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WinApp_MetroUI\WinApp_MetroUI\obj\x86\Debug\WinApp_MetroUI.exe
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WinApp_MetroUI\WinApp_MetroUI\obj\x86\Debug\WinApp_MetroUI.xml
+C:\Documents and Settings\RioSim\my documents\visual studio 2010\Projects\WinApp_MetroUI\WinApp_MetroUI\obj\x86\Debug\WinApp_MetroUI.pdb
